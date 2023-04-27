@@ -1,0 +1,114 @@
+.h5 {
+       text-align: center;
+    color: #2b98e6;
+}
+
+.h2 {
+    font-size: 42px;
+    text-align: center;
+}
+
+.p {
+    text-align: center;
+    color: #666;
+}
+
+.fa-house{
+    font-size: 30px;
+   
+  color: #2b98e6;
+
+}
+
+.cards button {
+background-color: #2b98e6;
+color: #fff;
+border: 1px solid transparent;
+width: 294px;
+height: 56px;
+}
+
+.add i {
+    color: #2b98e6;
+}
+
+.span {
+    font-size: 50px;
+    color: #2b98e6;
+    font-weight: 700;
+    width: 104px;
+    height: 74px;
+}
+
+.cards {
+    background-color: #f5f5f5;
+    border: 1px solid #f5f5f5;
+    width: 359px;
+    height: 670px;
+    margin: 20px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+}
+
+.cards h5, .cards h3, .spantwo {
+    font-weight: 700;
+}
+
+.fa-building-user  {
+    font-size: 30px;
+    color: #2b98e6;
+    background-color: red;
+}
+
+.card2 {
+    background-color: #2b1a66 !important;
+}
+
+.card2 h5, .card2 h3, .card2 p, .card2 span {
+  color: #fff;
+}
+
+.card2 hr {
+    color: #f5f5f5;
+}
+
+/* Pricing-Services */
+
+
+
+.Pricing-Services {
+    padding-top: 150px;
+}
+
+.Pricings img {
+width: 111px;
+height: 89px;
+}
+
+.Pricings-cards {
+    gap: 20px;
+}
+.Pricings {
+    display: flex;
+    gap: 20px;
+    background-color: #f5f5f5;
+    width: 560px;
+    height: 140px;
+    border: 1px solid #f5f5f5;
+    padding: 15px;
+}
+
+.Pricings p{
+color: #666;
+font-size: 15px;
+}
+
+.Pricings h1 {
+    color: #2b98e6;
+    font-size: 60px;
+    font-weight: 700;
+    width: 151px;
+    height: 109px;
+}
